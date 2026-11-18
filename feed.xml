@@ -6,21 +6,13 @@
     <atom:link href="https://sabastiaz.lol/feed.xml" rel="self" type="application/rss+xml" />
     <description>New scrolls, trials, awards, and site updates from Ratthapong Sommanus (Sabastiaz) — Red Team Sorcerer, Penetration Tester, Tenable Guardian of Thailand.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:50:29 +0000</lastBuildDate>
     <ttl>60</ttl>
     <image>
       <url>https://sabastiaz.lol/pic/Sabastiaz_Sly.png</url>
       <title>Sabastiaz · Red Team Sorcerer</title>
       <link>https://sabastiaz.lol/</link>
     </image>
-    <item>
-      <title>[New Blog] The Signature Was Valid. The Data Wasn't. — Intigriti 1126 CTF</title>
-      <link>https://sabastiaz.lol/blog/intigriti-1126.html</link>
-      <guid isPermaLink="false">https://sabastiaz.lol/blog/intigriti-1126.html#2026-11-18</guid>
-      <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-      <category>New Blog</category>
-      <description>Authorised write-up of Intigriti's November 2026 CTF challenge 1126. Recovers a signed Brainfuck interpreter, finds a verification/execution mismatch in a custom RSA-authenticated protocol, and extracts the flag through a mutable DATA pointer. RSA was never the weak link.</description>
-    </item>
     <item>
       <title>[New Award] Tenable Exposure Management CTF 2026 (Thailand Edition) - 1st Place 🥇</title>
       <link>https://sabastiaz.lol/honor.html</link>
